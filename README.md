@@ -1,6 +1,6 @@
 # Computer Science Notebooks
 
-[![Computer Science Notebooks](social-preview.png)](https://diegoinacio.github.io/computer-science-notebooks/)
+[![Computer Science Notebooks](docs/assets/images/social-preview.png)](https://diegoinacio.github.io/computer-science-notebooks/)
 
 This is an `authorial collection` of fundamental _python recipes_ in notebook format. I started this project with the sole purpose of helping people to understand **Computer Science** and **Programming** concepts as clearly and succinctly as I could.
 
